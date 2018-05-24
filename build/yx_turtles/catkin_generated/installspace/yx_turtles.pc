@@ -1,0 +1,8 @@
+prefix=/root/catkin_ws/install
+
+Name: yx_turtles
+Description: Description of yx_turtles
+Version: 0.0.0
+Cflags: -I/root/catkin_ws/install/include
+Libs: -L/root/catkin_ws/install/lib 
+Requires: 
